@@ -26,6 +26,7 @@ This repository is created for the submission of your Final Lab Project.
 - Final project report
 
 Please make sure your project is placed inside your assigned group folder, all files are properly organized, and the project runs correctly before submitting your Pull Request. This final submission is a chance to bring together everything you have learned throughout the course and demonstrate your ability to design and develop a complete web project.
+
 📢 Questions? Errors? Existential AI dilemmas?
 - Ask in class, message your team, or reach out to me.
 
